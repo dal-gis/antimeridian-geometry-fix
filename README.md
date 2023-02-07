@@ -12,7 +12,9 @@ QGIS tool to correct geometries overlapping antimeridian by splitting polygons i
 
 ### Screenshot
 
-![Example Screenshot](images/example-screenshot.png "Example Screenshot")
+![Example Screenshot - Tool](images/example-screenshot.png "Example Screenshot - Tool")
+
+![Example Screenshot - Results](images/results.png "Example Screenshot - Results")
 
 ### How to use
 
